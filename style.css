@@ -2,13 +2,15 @@ body {
   font-family: "ubuntu";
   color: #333; }
 
-#apresentacao {
-  height: 100vh; }
+section {
+  height: 100vh;
+  text-align: center;
+  display: table;
+  width: 100%;
+  vertical-align: middle; }
 
-#trabalhos {
-  height: 100vh; }
-
-#contatos {
-  height: 100vh; }
+h2 {
+  vertical-align: middle;
+  display: table-cell; }
 
 /*# sourceMappingURL=style.css.map */
